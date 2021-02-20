@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mern-course/static/css/main.e1cbeb30.chunk.css",
+    "main.js": "/mern-course/static/js/main.a477069d.chunk.js",
+    "main.js.map": "/mern-course/static/js/main.a477069d.chunk.js.map",
+    "runtime-main.js": "/mern-course/static/js/runtime-main.84dd704d.js",
+    "runtime-main.js.map": "/mern-course/static/js/runtime-main.84dd704d.js.map",
+    "static/css/2.0a49d93f.chunk.css": "/mern-course/static/css/2.0a49d93f.chunk.css",
+    "static/js/2.797c7468.chunk.js": "/mern-course/static/js/2.797c7468.chunk.js",
+    "static/js/2.797c7468.chunk.js.map": "/mern-course/static/js/2.797c7468.chunk.js.map",
+    "static/js/3.6c4ed7fb.chunk.js": "/mern-course/static/js/3.6c4ed7fb.chunk.js",
+    "static/js/3.6c4ed7fb.chunk.js.map": "/mern-course/static/js/3.6c4ed7fb.chunk.js.map",
+    "index.html": "/mern-course/index.html",
+    "static/css/2.0a49d93f.chunk.css.map": "/mern-course/static/css/2.0a49d93f.chunk.css.map",
+    "static/css/main.e1cbeb30.chunk.css.map": "/mern-course/static/css/main.e1cbeb30.chunk.css.map",
+    "static/js/2.797c7468.chunk.js.LICENSE.txt": "/mern-course/static/js/2.797c7468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84dd704d.js",
+    "static/css/2.0a49d93f.chunk.css",
+    "static/js/2.797c7468.chunk.js",
+    "static/css/main.e1cbeb30.chunk.css",
+    "static/js/main.a477069d.chunk.js"
+  ]
+}
